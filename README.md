@@ -1,4 +1,4 @@
-# IPL Win Predictor 🏏
+# IPL Win Predictor 
 
 A machine learning project that predicts IPL match winners based on past data.
 
